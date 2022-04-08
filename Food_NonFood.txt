@@ -3,7 +3,9 @@
 Adhering to a healthy and balanced diet can decrease the risk of non-communicable diseases, such as type-2 diabetes, heart disease and cancer. 
 In order to monitor and assess a person’s dietary habits, real-time, intuitive, accurate and cost-efficient dietary assessment approaches are
 of utmost importance. With the advances in Artificial Intelligence (AI) and machine learning (ML), systems that can automatically output the energy 
-and the nutrients of a consumed meal based on food-related multimedia data (e.g., RGB images, video), have replaced traditional methods, such as 24-hour recall and food frequency questionnaires. The first step of an automatic system is usually the distinction between images that contain food items and images that are irrelevant for this task.
+and the nutrients of a consumed meal based on food-related multimedia data (e.g., RGB images, video), have replaced traditional methods, 
+such as 24-hour recall and food frequency questionnaires. 
+The first step of an automatic system is usually the distinction between images that contain food items and images that are irrelevant for this task.
 
 2.Data
 The dataset consists of 3583 food images from the UNICT-FD889 dataset [1] and 4804 food and 8005 non-food images downloaded from Flickr [2].
