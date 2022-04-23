@@ -8,9 +8,27 @@ Own model built + Heatmap superimpose done but some issue
 
 
 
-April 21st 22:
-A notebook with output has been uploaded - for Full notebook with outputs find it at: https://www.kaggle.com/code/lubnaa24/food-challenge-uni-bern-phd-position/notebook \
-Final Code has been uploaded
+April 23st 22:
+Final Code & Notebook Uploaded has been uploaded
+
+
+
+
+
+Notes about Code:
+1. Was run in Kaggle's own notebook 
+So Paths of training and test set need to be changed if you want to use finale.py
+2. Some parts of the code are only compatible with specific version of modules
+
+Pillow==9.0.1
+tqdm==4.63.0
+matplotlib==3.5.1
+tensorflow==2.6.3
+keras==2.6.0
+numpy==1.21.5
+scipy==1.7.3
+pandas==1.3.5
+seaborn==0.11.2
 
 
 
