@@ -18,7 +18,7 @@ Final Code & Notebook Uploaded has been uploaded
 Notes about Code:
 1. Was run in Kaggle's own notebook 
 So Paths of training and test set need to be changed if you want to use finale.py
-2. Some parts of the code are only compatible with specific version of modules
+2. Some parts of the code are only compatible with specific version of libs
 
 Pillow==9.0.1\
 tqdm==4.63.0\
