@@ -1,6 +1,6 @@
 # Food Non Food Classification
 
-Checkpoint - April 23st 22:
+Checkpoint - April 26th 22:
 Final Code & Notebook Uploaded 
 
 Note:
