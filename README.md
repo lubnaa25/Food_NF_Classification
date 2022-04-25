@@ -12,7 +12,7 @@ I've also uploaded all my contents on [GDrive](https://drive.google.com/drive/fo
 
 Notes about Code:
 1. Was run in Kaggle's own notebook 
-So Paths of training and test set need to be changed if you want to use finale.py
+So Paths of training and test set need to be changed if you want to use [finale.py](https://github.com/lubnaa25/Food_NF_Classification/blob/main/finale%20(1).py)
 2. Some parts of the code are only compatible with specific version of libs\
 Pillow==9.0.1\
 tqdm==4.63.0\
